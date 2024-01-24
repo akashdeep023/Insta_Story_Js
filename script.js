@@ -29,6 +29,24 @@ let arr = [
 		dp: "https://img.freepik.com/premium-photo/cheerful-indian-woman-with-crossed-hands_416902-2181.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
 		img: "https://img.freepik.com/free-photo/portrait-adorable-indian-girl_23-2150913158.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
 	},
+	{
+		name: "@pari",
+		like: false,
+		dp: "https://img.freepik.com/free-photo/portrait-excited-young-girl-holding-mobile-phone_171337-1630.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
+		img: "https://img.freepik.com/free-photo/pleased-satisfied-young-female-model-makes-zero-gesture-wears-transparent-glasses-has-long-dark-hair_273609-17999.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
+	},
+	{
+		name: "@saurav",
+		like: true,
+		dp: "https://img.freepik.com/free-photo/portrait-happy-male-with-broad-smile_176532-8175.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
+		img: "https://img.freepik.com/free-photo/handsome-man-presenting-something_1368-87.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
+	},
+	{
+		name: "@juli",
+		like: false,
+		dp: "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
+		img: "https://img.freepik.com/free-photo/cheerful-girl-cashmere-sweater-laughs-against-backdrop-blossoming-sakura-portrait-woman-yellow-hoodie-city-spring_197531-17886.jpg?size=626&ext=jpg&ga=GA1.1.2125362433.1704450710&semt=sph",
+	},
 ];
 
 
